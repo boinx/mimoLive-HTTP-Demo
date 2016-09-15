@@ -1,0 +1,11 @@
+#mimoLive HTTP Demo Scripts
+*[mimoLive](http://mimo.live) is a live video processing application for macOS by [Boinx Software](http://boinx.com)*  
+
+##HTTP API
+Since version 2.6 mimoLive has a built-in HTTP server so it can be remotely controlled by other devices or computers. You can find the complete documentation for this API in the [mimoLive Manual](https://manual.mimo.live/en:pro:remote_controls:http_api). In order to get you started quickly with this new and amazing feature we decided to offer some demo scripts in various languages inside of this repository.
+
+##Included Scripts
+*	`mimoExplorer.php` a simple PHP script that loads the complete document structure and displays all layers, variants, sources and filters with their coresponding IDs. You can use these IDs for debugging or quickly coding your own scripts.
+
+##Questions? Feedback!
+Feel free to send us feedback in our [Boinx Forum](https://boinx.com/connect/forum/)
