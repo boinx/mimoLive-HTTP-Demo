@@ -4,7 +4,7 @@
 	/*
 	 * mimoLive API Explorer
 	 * This simple script loads the complete document structure mimoLive has to offer
-	 * for more documentation see: https://manual.mimo.live/en:pro:remote_controls:http_api
+	 * for more documentation see: https://docs.mimo.live/docs/http-api
 	 * and the other demo scripts at: https://github.com/boinx/mimoLive-HTTP-Demo
 	 *
 	 * Greetings from Munich,
